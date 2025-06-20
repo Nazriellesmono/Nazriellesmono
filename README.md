@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nazriellesmono
 - 👀 I’m interested in AI/ML Enginner
-- 🌱 I’m currently learning AI for Fraud Detection 
+- 🌱 I’m currently learning AI for Fraud Detection and computer vision
 - 📫 How to reach me nazrielaril14@gmail.com
 
 <!---
